@@ -1,0 +1,7 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+body {
+  overflow-x: hidden;
+  background-color: #343a40;
+  color: #fff;
+}
